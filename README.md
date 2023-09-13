@@ -1,3 +1,4 @@
+![Screenshot 2023-09-13 183017](https://github.com/SachiniMendis/SachiniMendis/assets/138864232/3e96aeea-abd2-4624-9569-5e73145b96f2)
 <h1 align="center">Hi 👋, I'm Sachini Mendis</h1>
 <h3 align="center">A passionate frontend developer from Sri Lanka</h3>
 
